@@ -1,0 +1,27 @@
+[
+  {
+    "name": "ali",
+    "score": 4,
+    "reason": "alpha"
+  },
+  {
+    "name": "ahamd",
+    "score": 2,
+    "reason": "beta"
+  },
+  {
+    "name": "reza",
+    "score": 1,
+    "reason": "delta"
+  },
+  {
+    "name": "مینا",
+    "score": 5,
+    "reason": "فهمیدن تابع"
+  },
+  {
+    "name": "مینا",
+    "score": 5,
+    "reason": "فهمیدن تابع"
+  }
+]
