@@ -1,3 +1,4 @@
 from django.contrib import admin
+from checkins.models import MoodEntry
 
-# Register your models here.
+admin.site.register(MoodEntry)
